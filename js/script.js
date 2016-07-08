@@ -17,7 +17,7 @@ function initialize(){
 // Generate the Winning Number
 
 function generateWinningNumber(){
-	return Math.floor(Math.random()*99);
+	return Math.floor(Math.random()*99) + 1;
 }
 
 // Fetch the Players Guess
