@@ -57,7 +57,7 @@ h1 {
 	line-height: 100px;
 }
 .paytone{
-  font-family: 'Paytone One';
+  font-family: 'Paytone One', lucida, monospace;
   font-weight:normal
 }
 
